@@ -1,8 +1,6 @@
 <h3 align="center">A passionate full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **MERN Stack**
-
-- 🌱 I’m currently learning **MERN stack**
+- 🔭 I’m currently working on **Asp.Net core**
 
 - 👨‍💻 All of my projects are available at [https://amin1063.github.io/Portfolio_website/](https://amin1063.github.io/Portfolio_website/)
 
